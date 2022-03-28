@@ -1,0 +1,10 @@
+C:\Users\amiraslamov\source\repos\Winners\Winners\bin\Debug\Winners.exe.config
+C:\Users\amiraslamov\source\repos\Winners\Winners\bin\Debug\Winners.exe
+C:\Users\amiraslamov\source\repos\Winners\Winners\bin\Debug\Winners.pdb
+C:\Users\amiraslamov\source\repos\Winners\Winners\obj\Debug\Winners.csprojAssemblyReference.cache
+C:\Users\amiraslamov\source\repos\Winners\Winners\obj\Debug\Winners.Form1.resources
+C:\Users\amiraslamov\source\repos\Winners\Winners\obj\Debug\Winners.Properties.Resources.resources
+C:\Users\amiraslamov\source\repos\Winners\Winners\obj\Debug\Winners.csproj.GenerateResource.cache
+C:\Users\amiraslamov\source\repos\Winners\Winners\obj\Debug\Winners.csproj.CoreCompileInputs.cache
+C:\Users\amiraslamov\source\repos\Winners\Winners\obj\Debug\Winners.exe
+C:\Users\amiraslamov\source\repos\Winners\Winners\obj\Debug\Winners.pdb
